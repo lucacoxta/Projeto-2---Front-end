@@ -35,6 +35,6 @@ Simula uma lista de frutas adicionadas pelo usuário, exibindo os valores em tem
 - Manipulação de arrays
 - Atualização dinâmica do conteúdo HTML
 - Design responsivo e amigável
-- 
+
 ---
 
